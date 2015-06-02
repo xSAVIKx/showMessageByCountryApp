@@ -5,9 +5,13 @@ data = {
         "text_two": "Другий текст українською",
         "text_three": "Третій текст українською мовою"
     },
-    "EN": {
-        "text_one": "English text",
-        "text_two": "Second text in english"
+    "US": {
+        "text_one": "English text for US",
+        "text_two": "Second text in english for US"
+    },
+    "GB": {
+        "text_one": "English text for GB",
+        "text_two": "Second text in english for GB"
     },
     "RU": {
         "text_one": "Текст на русском языке",
